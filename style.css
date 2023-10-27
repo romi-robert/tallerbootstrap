@@ -1,0 +1,14 @@
+.col-12 {
+    text-align: justify; /* Justifica el texto dentro de las columnas */
+    column-gap: 20px; /* Espacio entre columnas, puedes ajustarlo según tus preferencias */
+    margin-bottom: 5px;
+    background-color: rgba(0, 0, 0, 0.028);
+}
+
+a {
+    color: #333; /* Cambia #333 al color deseado */
+}
+
+.custom-text-color {
+    color: rgba(255, 255, 255, 0.55); /* Cambia #888 al valor del gris claro que desees */
+}
